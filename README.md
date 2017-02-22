@@ -395,5 +395,4 @@ group by 1,2) ecomm on ecomm.ecomm_account = sfa.ns_id_c*/
 
 where ACCOUNT_RECORD_TYPE != 'Ecomm Customer'
 and account_record_type = 'Direct Customer'
-and brand_name = 'McDonalds'
 )cp
