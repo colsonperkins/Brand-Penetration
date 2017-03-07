@@ -1,6 +1,6 @@
 select
 CASE
-WHEN BRAND_NAME = 'Applebees' THEN BRAND_NAME
+WHEN BRAND_NAME = 'TEST CHANGE' THEN BRAND_NAME
 WHEN BRAND_NAME = 'McDonalds' THEN Brand_name
 WHEN BRAND_NAME = 'McDonalds' THEN Brand_name
 WHEN PARENT_BRAND_NAME = 'McDonalds' then 'McDonalds'
